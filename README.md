@@ -1,6 +1,6 @@
 # PROJECT
 STATIC RESPONSIVE PROJECT 
-![Screenshot 2023-01-20 170513](https://user-images.githubusercontent.com/121388038/213687488-9716b3be-e983-4965-9914-b2243520dd94.png)
+![Screenshot 2023-01-20 170513](https://user-images.githubusercontent.com/121388038/213693204-538e5fef-65fc-428b-b182-889a3d47fc87.png)
 MAIN PAGE OF WEBPAGE 
 ![Screenshot 2023-01-20 170553](https://user-images.githubusercontent.com/121388038/213687660-be02b462-e298-4249-b229-8554662f27c2.png)
 WEB LOGIN PAGE RESPONSIVE!
